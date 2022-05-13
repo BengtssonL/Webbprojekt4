@@ -1,5 +1,5 @@
 fieldset {
     display: inline-block;
-    vertical-align: top;
+    align-content: center;
     margin-right: 3%;
 }
